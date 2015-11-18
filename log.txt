@@ -1,2 +1,2 @@
 hello world
-this is from master 2
+this is from master
